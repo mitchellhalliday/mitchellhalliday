@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mitchellhalliday
+- 👀 I’m interested in React and Full Stack Development
+- 🌱 I’m currently learning about AWS Services and Serverless Technology
+- 💞️ I’m looking to collaborate on anything :)
